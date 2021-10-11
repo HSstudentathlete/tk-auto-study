@@ -13,6 +13,6 @@
   "send": {
     "type": "server_chan",
     "key": "SCT83644TpjA6BGproHhfbpvrYrhGnhIA",
-    "mode": "默认fail(fail/success/both)"
+    "mode": "both"
   }
 }
