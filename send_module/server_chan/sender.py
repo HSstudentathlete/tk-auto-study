@@ -1,7 +1,7 @@
 import requests
 
 sess = requests.session()
-send_key = ""
+send_key = "SCT83644TpjA6BGproHhfbpvrYrhGnhIA"
 
 
 def set_key(key):
